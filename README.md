@@ -1,0 +1,1 @@
+the simple example about readand write to txt file
